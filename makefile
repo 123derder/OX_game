@@ -1,0 +1,2 @@
+ALL:
+	gcc server.c
